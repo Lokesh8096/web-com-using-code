@@ -1,0 +1,247 @@
+.card-1 {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735641276/entro/assets/images/banner2.jpg");
+    background-size: cover;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+.nav-custom-img {
+    height: 40px;
+    background-color: transparent;
+}
+
+.card-1-h1 {
+    color: lightblue;
+    font-size: 50px;
+}
+
+.card-1-h2 {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.card-1-p {
+    color: #ffffff;
+}
+
+.card-1-btn1 {
+    background-color: #ffffff;
+    border-radius: 50px;
+    border-width: 0px;
+    padding: 5px;
+    width: 200px;
+    font-size: 12px;
+    margin-right: 5px;
+}
+
+.card-1-1 {
+    margin-top: 80px;
+}
+
+.card-2 {
+    background-image: url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735641274/entro/assets/images/about_bg.jpg");
+    background-size: cover;
+    padding: 50px;
+    font-family: sans-serif;
+}
+
+.card-2-btn {
+    background-color: #161616;
+    color: #ffffff;
+    padding: 5px;
+    width: 150px;
+    border-radius: 50px;
+}
+
+.card-2-img-cont {
+    text-align: center;
+}
+
+.card-2-img {
+    height: 300px;
+}
+
+.card-3 {
+    padding: 50px;
+    font-family: sans-serif;
+}
+
+.card-3-h1 {
+    font-size: 35px;
+}
+
+.card-3-img {
+    width: 100%;
+    height: 200px;
+}
+
+.card-4 {
+    background-color: #ececec;
+    padding: 50px;
+    font-family: sans-serif;
+    padding-top: 80px;
+}
+
+.card-4-img {
+    width: 100%;
+    height: 250px;
+    margin-bottom: 10px;
+}
+
+.card-4-1 {
+    background-color: transparent;
+    text-align: right;
+}
+
+.card-5 {
+    background-color: #161616;
+    padding: 50px;
+    font-family: sans-serif;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.card-5-h1 {
+    color: #ffffff;
+}
+
+.card-5-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card-5-box1 {
+    width: 90%;
+    height: 40px;
+    padding: 9px;
+    padding-left: 20px;
+    background-color: #ffffff;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.card-5-box2 {
+    width: 90%;
+    height: 80px;
+    padding: 9px;
+    padding-left: 20px;
+    background-color: #ffffff;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.card-5-box1-p {
+    color: grey;
+}
+
+.card-5-box2-p {
+    color: grey;
+    font-size: 12px;
+}
+
+.card-5-box3-p {
+    color: white;
+    font-size: 12px;
+}
+
+.card-5-btn {
+    background-color: white;
+    border-width: 0px;
+    padding: 10px;
+    color: black;
+    width: 150px;
+    border-radius: 50px;
+}
+
+.card-5-box3 {
+    width: 60%;
+    height: 40px;
+    padding: 10px;
+    padding-left: 20px;
+    background-color: #ffffff;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.card-5-box4 {
+    width: 30%;
+    height: 40px;
+    padding: 5px;
+    padding-top: 10px;
+    background-color: lightblue;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.card-5-p {
+    color: white;
+    text-align: left;
+    font-size: 18px;
+}
+
+.card-5-contact-span {
+    color: white;
+}
+
+.card-5-icon {
+    color: black;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    font-size: 20px;
+}
+
+@media (min-width: 992px) {
+    .card-1{
+        padding: 100px;
+    }
+    .card-3{
+        padding: 100px;
+    }
+    .card-4{
+        padding: 100px;
+    }
+    .card-5{
+        padding: 100px;
+    }
+    .card-2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 100px;
+    }
+    .card-2-h1{
+        font-size: 50px;
+    }
+    .card-3 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .card-3-img {
+        height: 400px;
+        margin-left: 15px;
+        margin-top: 50px;
+        width: 350px;
+    }
+    .card-4-lg{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .card-4-2-lg{
+        display: flex;
+        flex-direction: row;
+    }
+    .card-4-img{
+        margin-right: 10px;
+        width: 250px;
+    }
+    .card-4-1{
+        margin: auto;
+    }
+}

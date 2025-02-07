@@ -1,0 +1,86 @@
+.card{
+    background-image:url("https://res.cloudinary.com/dg8n2jeur/image/upload/v1735641277/entro/assets/images/gallery1.jpg");
+    height:50vh;
+}
+.main-heading{
+    font-family:"Montserrat";
+    color:#161616;
+    text-align:center;
+}
+.main-heading1{
+    font-family:"Montserrat";
+    color:#161616;
+    text-align:center;
+}
+.paragraph{
+    font-family:"Sans-Serif";
+    color:#ffffff;
+    text-align:center;
+}
+.button{
+    font-family:"Sans-Serrif";
+    color:#161616;
+    border-radius:10px;
+}
+.button1{
+    font-family:"Sans-Serif";
+    color:#161616;
+    border-radius:10px;
+}
+.card1{
+    background-color:#ffffff;
+    height:50px;
+}
+.img1{
+    display:flex;
+    height:50vh;
+}
+.button2{
+    font-family:"Sans-Serif";
+    border-radius:20px;
+}
+.paragraph2{
+    text-align:center;
+}
+.card2{
+    background-color:#ffffff;
+    height:50vh;
+}
+.button5{
+  width:303px;
+  height:60px;
+  text-align:center;
+}
+.card5{
+    background-color:#161616;
+    height:80vh;
+    width:70vh;
+}
+.main-heading2{
+    color:#ffffff;
+    font-family:"Montserrat";
+    text-align:center;
+}
+.buttoncls{
+    text-align:center;
+}
+.button6{
+    text-align:center;
+    border-radius:100px;
+    width:20vh;
+}
+.main-heading3{
+    color:#ffffff;
+    font-family:"Montserrat";
+}
+.button7{
+  width:420px;
+  height:60px;
+  text-align:center;
+}
+.card6{
+    color:#ececec;
+    text-align:center;
+    height:100vh;
+    border-radius:20vh;
+}
